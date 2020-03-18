@@ -14,5 +14,7 @@ WhatColorIsIt(c) by Kasai Kemono
 WhatColorIsIt is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
+![Image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
