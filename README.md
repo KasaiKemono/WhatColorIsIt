@@ -1,7 +1,11 @@
 # WhatColorIsIt
+If you ever looked at your boring clock on the wall and thought "Man, this thing could use some color", fret no more! WhatColorIsIt is here to help you. 
+Since it is a basic python script, you can e.g. let it run on a RaspberryPi and connect that to a wallmounted screen, and BingBangBoom, a new eyecatcher is finished. 
+
 This is a simple digital clock which changes its colour, depending on the time of day. 
 For that, it takes the current time, reads it as a hex-code and changes its background accordingly. 
 It is heavily inspired by the project of the same name by scn9a.org, which was apparently taken down (which in turn was the reason I made this).
+
  
  ### CONTACT
 
